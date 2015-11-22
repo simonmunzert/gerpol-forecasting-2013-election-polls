@@ -1,8 +1,6 @@
 # Supplementary and replication materials for article "Forecasting the 2013 German Bundestag Election"
 
 This repository provides replication materials for the article "Forecasting the 2013 German Bundestag Election" by Peter Selb and Simon Munzert, forthcoming in German Politics.
-## Description of the folders and files
-
 
 ## Author information
 
